@@ -148,7 +148,7 @@ Make sure you have installed:
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/ShopMe.git
+git clone https://github.com/upeka200163/ShopMe_Ecommerce-Website.git
 ```
 
 ---

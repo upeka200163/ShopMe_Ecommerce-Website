@@ -1,6 +1,7 @@
 # 🛍️ ShopMe — Modern E-Commerce Web Application
 
 > **"Elevating online shopping with modern design and seamless user experiences."**
+
 ShopMe is a modern, responsive, and visually engaging e-commerce web application built with **React.js**, **Vite**, and **Tailwind CSS**. Designed with a user-first approach, the platform delivers a premium online shopping experience through dynamic product showcases, interactive promotional sections, and smooth animations.
 
 ---

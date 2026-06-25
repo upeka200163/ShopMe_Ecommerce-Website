@@ -9,7 +9,8 @@ ShopMe is a modern, responsive, and visually engaging e-commerce web application
 ## 🌍 Live Preview
 
 🔗 **Live Demo:**  
-[Your Netlify / Vercel / GitHub Pages Link Here]
+
+https://shopme-ecommerce-website.netlify.app/
 
 ---
 
